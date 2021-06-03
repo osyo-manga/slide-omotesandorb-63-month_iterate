@@ -13,7 +13,7 @@
 * Twitter : [@pink_bangbi](https://twitter.com/pink_bangbi)
 * github  : [osyo-manga](https://github.com/osyo-manga)
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
-* [趣味で気になった bugs.ruby のチケットをブログにまとめてる](https://secret-garden.hatenablog.com/archive/category/bugs.ruby)               <!-- .element: class="fragment" -->
+* [趣味で気になった bugs.ruby のチケットをブログにまとめてる](https://secret-garden.hatenablog.com/archive/category/bugs.ruby)
 * [令和時代の Ruby 基礎文法最速マスター](https://secret-garden.hatenablog.com/entry/2020/12/01/232816) 書いたので気になる人は見てね！
 
 ---
