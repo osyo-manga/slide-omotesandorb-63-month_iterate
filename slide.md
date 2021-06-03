@@ -154,7 +154,7 @@ pp rand.take(10)
 
 * これを利用して月単位のイテレーションも定義する
 
-`` `ruby
+```ruby
 require "date"
 
 first = Date.parse("2020/01/01")
